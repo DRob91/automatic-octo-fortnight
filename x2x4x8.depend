@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1614913627 source:d:\c++ learning\giraffe\octave v2\main.cpp
+	<iostream>
+	<cmath>
+
+1614913834 source:d:\c++ learning\giraffe\x2,x4,x8\main.cpp
+	<iostream>
+	<cmath>
+
